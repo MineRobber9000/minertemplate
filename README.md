@@ -1,0 +1,2 @@
+# MinerTemplate
+My template language.
